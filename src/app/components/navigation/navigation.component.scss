@@ -1,0 +1,23 @@
+nav {
+    background-color: #f2f2f2;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+     ul {
+        display: flex;
+        justify-content: space-evenly;
+
+        li a{
+            display: block;
+            padding: 16px;
+            color: black;
+        }
+    }
+}
+
+nav i {
+    display: block;
+    text-align: center;
+}
+
